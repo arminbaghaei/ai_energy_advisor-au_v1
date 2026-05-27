@@ -1,0 +1,122 @@
+{
+  "thermostat": {
+    "title": "Set efficient heating and cooling temperatures",
+    "category": "Heating and cooling",
+    "audience": "All households",
+    "priority": 1,
+    "difficulty": "Easy",
+    "cost_level": "No cost",
+    "impact_level": "High",
+    "recommendation": "Use heating around 18–20°C in winter and cooling around 25–27°C in summer. Close internal doors and only condition rooms being used.",
+    "saving_method": "heating_cooling_degree_rule",
+    "evidence_note": "Australian Government guidance states that each degree of extra heating or cooling can affect energy use by about 5–10%."
+  },
+  "shorter_showers": {
+    "title": "Reduce shower time where practical",
+    "category": "Hot water",
+    "audience": "All households",
+    "priority": 2,
+    "difficulty": "Moderate",
+    "cost_level": "No cost",
+    "impact_level": "Medium to high",
+    "recommendation": "Use a shower timer and reduce long showers. Start with a realistic goal rather than forcing an extreme change.",
+    "saving_method": "shower_time_reduction",
+    "evidence_note": "Water heating is commonly 15–30% of household energy use in Australia."
+  },
+  "efficient_showerhead": {
+    "title": "Use a water-efficient showerhead",
+    "category": "Hot water",
+    "audience": "All households",
+    "priority": 3,
+    "difficulty": "Easy",
+    "cost_level": "Low cost",
+    "impact_level": "Medium",
+    "recommendation": "Install or request a water-efficient showerhead where suitable. This reduces hot-water demand without requiring major building work.",
+    "saving_method": "efficient_showerhead",
+    "evidence_note": "Shower flow rates affect hot-water demand; WELS-rated products support water efficiency."
+  },
+  "leds": {
+    "title": "Replace old frequently used bulbs with LEDs",
+    "category": "Lighting",
+    "audience": "All households",
+    "priority": 4,
+    "difficulty": "Easy",
+    "cost_level": "Low cost",
+    "impact_level": "Medium",
+    "recommendation": "Start with living rooms, kitchens, hallways, bedrooms, and outdoor lights used often.",
+    "saving_method": "led_replacement",
+    "evidence_note": "LEDs use about 75% less energy than halogen bulbs and last longer."
+  },
+  "draught_sealing": {
+    "title": "Seal obvious draughts around doors and windows",
+    "category": "Building shell",
+    "audience": "All households",
+    "priority": 5,
+    "difficulty": "Easy",
+    "cost_level": "Low cost",
+    "impact_level": "Medium",
+    "recommendation": "Use door snakes, weather strips, and simple renter-friendly sealing where practical.",
+    "saving_method": "qualitative",
+    "evidence_note": "Draught sealing reduces wasted heating and cooling demand."
+  },
+  "curtains": {
+    "title": "Use curtains and blinds strategically",
+    "category": "Heating and cooling",
+    "audience": "All households",
+    "priority": 6,
+    "difficulty": "Easy",
+    "cost_level": "No to low cost",
+    "impact_level": "Medium",
+    "recommendation": "Close curtains during hot summer afternoons and cold winter nights. Open them when outdoor conditions help comfort.",
+    "saving_method": "qualitative",
+    "evidence_note": "Curtains and blinds help manage summer heat gain and winter heat loss."
+  },
+  "standby": {
+    "title": "Turn off unused appliances at the wall or use smart power boards",
+    "category": "Appliances",
+    "audience": "All households",
+    "priority": 7,
+    "difficulty": "Easy",
+    "cost_level": "No to low cost",
+    "impact_level": "Low to medium",
+    "recommendation": "Focus on entertainment units, chargers, computers, gaming consoles, and rarely used devices.",
+    "saving_method": "standby_reduction",
+    "evidence_note": "Smart power strips can reduce unnecessary standby energy waste."
+  },
+  "insulation_owner": {
+    "title": "Check ceiling or roof insulation",
+    "category": "Building shell",
+    "audience": "Owners",
+    "priority": 8,
+    "difficulty": "Professional check recommended",
+    "cost_level": "Medium to high",
+    "impact_level": "High long-term",
+    "recommendation": "If you own the home, check ceiling or roof insulation before investing in more expensive upgrades.",
+    "saving_method": "qualitative",
+    "evidence_note": "Insulation helps reduce heat transfer and heating/cooling demand."
+  },
+  "insulation_renter": {
+    "title": "Raise insulation or draught issues with the landlord/property manager",
+    "category": "Building shell",
+    "audience": "Renters",
+    "priority": 8,
+    "difficulty": "Moderate",
+    "cost_level": "No direct upgrade cost",
+    "impact_level": "Potentially high",
+    "recommendation": "If renting, document cold/hot rooms, draughts, or poor insulation indicators and discuss options with the property manager.",
+    "saving_method": "qualitative",
+    "evidence_note": "Tenure-sensitive advice is needed so renters are not given unrealistic owner-only actions."
+  },
+  "solar_after_efficiency": {
+    "title": "Consider solar after basic efficiency issues are fixed",
+    "category": "Long-term upgrade",
+    "audience": "Owners primarily",
+    "priority": 9,
+    "difficulty": "Professional quote required",
+    "cost_level": "High",
+    "impact_level": "High but site-dependent",
+    "recommendation": "Solar can be valuable, but fixing energy waste first improves the value of any later solar investment.",
+    "saving_method": "qualitative",
+    "evidence_note": "Whole-home energy planning should consider demand reduction before major technology upgrades."
+  }
+}
