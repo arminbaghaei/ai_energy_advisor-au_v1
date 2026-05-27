@@ -428,7 +428,7 @@ def welcome_screen() -> None:
 
 def profile_screen() -> None:
     st.title("Household profile")
-    st.caption("Keep this short. The first prototype should avoid survey fatigue.")
+    st.caption("A short profile helps personalise the energy action plan without making the tool feel like a survey.")
     with st.form("profile_form"):
         c1, c2 = st.columns(2)
         with c1:
