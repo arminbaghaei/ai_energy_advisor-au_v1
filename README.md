@@ -1,10 +1,10 @@
-# EnergyWise Homes Australia
+# The Energy Detective Australia
 
 A Streamlit web application that turns the Level 1 home-energy inspection game into a practical, market-facing web prototype for Australian households.
 
 ## What the app does
 
-EnergyWise Homes Australia guides a user through a short home-energy check-up. The user answers five household profile questions, completes seven inspection hotspots, and receives a prioritised Energy Action Plan with conservative indicative annual savings.
+The Energy Detective Australia guides a user through a short home-energy check-up. The user answers five household profile questions, completes seven inspection hotspots, and receives a prioritised Energy Action Plan with conservative indicative annual savings.
 
 The app is designed for public education and engagement. It is not a certified home energy audit, NatHERS assessment, solar calculator, or compliance tool.
 
