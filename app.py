@@ -660,7 +660,7 @@ def profile_screen() -> None:
 
 def inspection_screen() -> None:
     st.title("Home inspection")
-    st.write("Select each hotspot, answer one question, and receive immediate feedback.")
+    st.write("Select each room, answer one question, and receive immediate feedback.")
     sidebar_status()
 
     c1, c2 = st.columns([0.60, 0.40])
