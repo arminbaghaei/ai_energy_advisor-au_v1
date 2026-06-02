@@ -13,9 +13,9 @@ This tool is a public-facing research and market-readiness prototype. It is inte
 
 ## Developed by
 
-**Tech Innovation Experts**  
-Providing technology-driven services across Oceania  
-Email: tinx@gmail.com
+**Tech Innovation Experts Ltd.**  
+Providing technology-driven services across Oceania
+Contact us: support@tinx.co.nz
 
 ---
 
