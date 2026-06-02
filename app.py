@@ -53,7 +53,7 @@ CUSTOM_CSS = """
 .block-container {
     padding-top: 1.4rem;
     padding-bottom: 3rem;
-    max-width: 1080px;
+    max-width: 96vw;
     margin-left: auto;
     margin-right: auto;
 }
