@@ -1,0 +1,2 @@
+# Add these to your existing requirements.txt
+supabase>=2.6.0
