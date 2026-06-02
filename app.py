@@ -860,7 +860,7 @@ def _sidebar_logo_html() -> str:
         {logo}
         <div class="sidebar-brand-title">Tech Innovation Experts</div>
         <div class="sidebar-brand-text">Providing technology-driven services across Oceania</div>
-        <div class="sidebar-brand-text">tinx@gmail.com</div>
+        <div class="sidebar-brand-text">support@tinx.co.nz</div>
     </div>
     """
 
@@ -879,7 +879,7 @@ def logo_header() -> None:
                 {_logo_html()}
                 <div class="company-name">Tech Innovation Experts</div>
                 <div class="company-tagline">Providing technology-driven services across Oceania</div>
-                <div class="company-email">Email: tinx@gmail.com</div>
+                <div class="company-email">Email: support@tinx.co.nz</div>
             </div>
         </div>
         <div class="compliance-strip">
@@ -1232,7 +1232,7 @@ def generate_certificate_png(name: str, score: int, result_label: str) -> bytes:
 
     footer_y = height - 205
     _draw_centered(draw, "Tech Innovation Experts", footer_y, _load_font(26, True), "#0F172A", width)
-    _draw_centered(draw, "Providing technology-driven services across Oceania | tinx@gmail.com", footer_y + 40, _load_font(22), "#475569", width)
+    _draw_centered(draw, "Providing technology-driven services across Oceania | support@tinx.co.nz", footer_y + 40, _load_font(22), "#475569", width)
     _draw_centered(draw, "Recognition certificate only. Not a certified energy assessment or accredited NCC/NatHERS rating.", height - 105, _load_font(18), "#64748B", width)
 
     buffer = BytesIO()
@@ -1587,7 +1587,7 @@ def plan_screen() -> None:
                 <div class='certificate-pill'>Score: {st.session_state.score}/100</div>
                 <div class='certificate-pill'>Date: {completion_date}</div>
             </div>
-            <div class='certificate-footer'>Tech Innovation Experts | Providing technology-driven services across Oceania | tinx@gmail.com</div>
+            <div class='certificate-footer'>Tech Innovation Experts | Providing technology-driven services across Oceania | support@tinx.co.nz</div>
             <div class='certificate-disclaimer'>Recognition certificate only. Not a certified energy assessment or accredited NCC/NatHERS rating.</div>
         </div>
         """,
@@ -2514,7 +2514,7 @@ def plan_screen() -> None:
                 <div class='certificate-pill'>Score: {st.session_state.score}/100</div>
                 <div class='certificate-pill'>Date: {completion_date}</div>
             </div>
-            <div class='certificate-footer'>Tech Innovation Experts | Providing technology-driven services across Oceania | tinx@gmail.com</div>
+            <div class='certificate-footer'>Tech Innovation Experts Ltd. | Providing technology-driven services across Oceania | support@tinx.co.nz</div>
             <div class='certificate-disclaimer'>Recognition certificate only. Not a certified energy assessment or accredited NCC/NatHERS rating.</div>
         </div>
         """,
